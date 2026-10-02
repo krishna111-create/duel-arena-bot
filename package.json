@@ -1,8 +1,0 @@
-{
-  "name":"duel-arena-telegram-bot",
-  "version":"2.0.0",
-  "description":"Duel Arena - 15 game Telegram bot with persistent in-message game UI",
-  "main":"bot.js",
-  "scripts":{"start":"node bot.js"},
-  "dependencies":{"dotenv":"^16.4.7","telegraf":"^4.16.3"}
-}
